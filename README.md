@@ -1,2 +1,4 @@
-# Snap-Game-Project-Spring-2018-
-First coding project from my first Computer Science class in Spring 2018
+First ever CS Project from Spring 2018! (Living in a Computing World CS1030)
+
+Link to Project:
+https://tinyurl.com/FinalProjectComputingWorld
